@@ -1,0 +1,29 @@
+{
+  "name": "prct-07-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run",
+    "coverage": "vitest run --coverage",
+    "build": "tsc",
+    "docs": "typedoc"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandosanchezzz/prct-07-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fernandosanchezzz/prct-07-patterns/issues"
+  },
+  "homepage": "https://github.com/fernandosanchezzz/prct-07-patterns#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
