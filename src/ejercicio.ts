@@ -68,6 +68,6 @@ export class AppConfig {
         this.map1.clear();
     
     }
-}
+
 
     }

@@ -9,7 +9,6 @@
     "coverage": "vitest run --coverage",
     "build": "tsc",
     "docs": "typedoc"
-
   },
   "repository": {
     "type": "git",
@@ -25,5 +24,8 @@
   "homepage": "https://github.com/fernandosanchezzz/prct-07-patterns#readme",
   "dependencies": {
     "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "typedoc": "^0.28.17"
   }
 }
